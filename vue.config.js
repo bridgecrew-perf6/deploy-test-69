@@ -1,5 +1,5 @@
 module.exports = {
-	publicPath: "./",
+	publicPath: "http://175.178.192.105/demo1",
 	outputDir:"dist",
 	assetsDir:"static",
 	indexPath:"index.html",
