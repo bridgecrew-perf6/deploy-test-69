@@ -1,5 +1,5 @@
 git pull
-
+yarn run build
 #删除docker容器
 docker rm -f nginx8080 &> /dev/null
 echo '脚本运行'
