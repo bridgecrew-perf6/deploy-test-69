@@ -5,6 +5,8 @@
 
   <h2>test deploy</h2>
 
+  <h3>test auto deploy</h3>
+
 
 </template>
 
